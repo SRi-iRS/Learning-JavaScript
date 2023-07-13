@@ -1,1 +1,2 @@
 .vscode/*
+/es6tooling/node_modules
